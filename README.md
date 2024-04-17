@@ -4,4 +4,4 @@ Seventh project from "The Odin Project" (TOP), second project from Intermediate 
 
 Creating a simple admin dashboard design. 
 
-Webpage:
+Webpage: https://sshahryar.github.io/odin-AdminDashboard/
