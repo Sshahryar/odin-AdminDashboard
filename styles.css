@@ -56,4 +56,10 @@ button {
     margin-bottom: 1em;
 }
 
+.footer {
+    grid-area: footer;
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 1em;
+}
 
