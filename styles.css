@@ -52,4 +52,11 @@ button {
     margin-bottom: 1em;
 }
 
+.trending-item {
+    border: 1px solid #ccc;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+
 
