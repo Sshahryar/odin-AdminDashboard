@@ -66,5 +66,12 @@ button {
     margin-bottom: 1em;
 }
 
+.announcement {
+    border: 1px solid #ccc;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+
 
 
