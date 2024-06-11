@@ -15,7 +15,6 @@ p {
     height: 100vh;
 }
 
-/* Header Section */
 header {
     grid-row: 1;
     grid-column: 2;
@@ -88,7 +87,6 @@ header {
 .account-btn {
     display: grid;
     grid-template-columns: 1fr auto auto;
-    /* grid-template-columns: repeat(auto-fit, minmax(70px, 1fr)); */
     align-self: center;
     justify-items: end;
     gap: 12px;
@@ -134,7 +132,6 @@ header {
     background-color: #e0f2fe;
 }
 
-/* Side bar Section */
 .sidebar {
     background-color: #0ea5e9;
     grid-row: 1 / -1;
@@ -172,7 +169,6 @@ header {
     background-size: 32px 32px;
 }
 
-/* Main Content/Project Section */
 .content {
     background-color: #e0f2fe;
     display: grid;
